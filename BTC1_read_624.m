@@ -1,4 +1,4 @@
-%% 624 Fluorometer data calibration - Uranine only
+%% 624 Fluorometer data calibration - Uranine only branch
    % Original script by Julia Knapp, Uni Tübingen 2013/14. 
    % Modified by Marie Kurz, Helmholtz-UFZ 2015. 
    % Adapted by Lara Aylward, Helmholtz-UFZ 2015.
